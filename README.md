@@ -1,0 +1,1 @@
+Rebuild of the standard printf function in C. The project required a function capable of printing with the %d, %c, %s, and %% specifiers to standard output. printf returns the number of characters printed (excluding the null byte at the end of strings). It's not expected to handle flag characters, field width, precision, or length.
